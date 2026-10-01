@@ -5,7 +5,7 @@
 Below is an scatter plot of the provided CSV file. Red dots are anomolgies while blue are normal observations. 
 
 
-![alt text](image.png)
+![Scatter Plot with Anomalies](scatter_plot.png)
 
 ## Choosing W and q
 
